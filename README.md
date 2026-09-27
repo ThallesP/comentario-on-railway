@@ -1,5 +1,9 @@
 # Deploy and Host Comentario on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/comentario?utm_medium=integration&utm_source=button&utm_campaign=comentario)
+
+This repository is the source of the [Comentario template on Railway](https://railway.com/deploy/comentario).
+
 Comentario is a lightweight, privacy-focused commenting engine that can be self-hosted on your own infrastructure. It provides an alternative to third-party commenting services like Disqus, giving you full control over your users' data and commenting experience.
 
 ## About Hosting Comentario
